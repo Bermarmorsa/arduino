@@ -1,0 +1,15 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="org.apache.log4j.Level" />
+          <option value="org.apache.log4j.log4j" />
+          <option value="org.apache.logging.log4j" />
+          <option value="org.apache.spark.spark" />
+          <option value="org.apache.spark.sql.SparkSession" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
